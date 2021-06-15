@@ -19,7 +19,7 @@ const Sidebar = () => {
         Chinedu
       </h3>
       <p className="px-2 py-1 my-3 bg-gray-200 dark:bg-dark-300 rounded-full">Frontend Developer</p>
-      <a className="flex justify-center px-2 py-1 my-3 bg-gray-200 rounded-full items-centers" href="" download="name"><GiTie className="w-6 h-6 " /> Download Resume</a>
+      <a className="flex justify-center px-2 py-1 my-3 bg-gray-200 dark:bg-dark-300 rounded-full items-centers" href="" download="name"><GiTie className="w-6 h-6 " /> Download Resume</a>
       {/* //Social Icon */}
       <div className="flex justify-around w-9/12 mx-auto my-5 text-blue-500 md:w-full">
         <a rel='noopener noreferrer' target="_blank" href="https://github.com/"><AiFillGithub className="w-8 h-8 cursor-pointer" /></a>

@@ -15,7 +15,7 @@ export const services:IService[] = [
   {
     Icon: RiComputerLine,
     title: 'Frontend Developer',
-    about: 'I am good a developing beautiful and scalable web application using <b>HTML</b>, <b>CSS</b>, <b>React.js</b>, <b>Bootstrap</b>, <b>Tailwindcss</b> and amonst others',
+    about: 'I am good at developing beautiful and scalable web application using <b>HTML</b>, <b>CSS</b>, <b>React.js</b>, <b>Bootstrap</b>, <b>Tailwindcss</b> and amonst others',
   },
   {
     Icon: FaServer,
